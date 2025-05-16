@@ -96,7 +96,7 @@ const List = () => {
 //     </div>
 //   );
 return (
-  // <div className="p-4 md:p-6 lg:p-8">
+  // <div className="p-4 md:p-2 lg:p-8">
   //   <div className="text-center mb-4 md:mb-6">
   //     <h3 className="text-xl md:text-2xl lg:text-3xl font-bold text-gray-800">
   //       Manage Leaves
@@ -248,6 +248,8 @@ return (
       <div className="text-center p-4 sm:p-6 text-gray-500 text-sm sm:text-base">
         No leave records found
       </div>
+    )}
+  </div>
 );
 };
 
