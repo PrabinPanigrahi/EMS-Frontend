@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+/* In your CSS
+.main-content {
+    margin-left: 16rem; /* 256px - matches sidebar width 
+  }
+  
+  @media (max-width: 767px) {
+    .main-content {
+      margin-left: 0;
+    }
+  } */
